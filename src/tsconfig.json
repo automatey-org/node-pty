@@ -8,8 +8,7 @@
     "lib": [
       "es2015"
     ],
-    "strict": true,
-    "skipLibCheck": true
+    "strict": true
   },
   "exclude": [
     "node_modules",
@@ -18,7 +17,6 @@
     "demo.js",
     "lib",
     "test",
-    "examples",
-    "**/*.test.ts"
+    "examples"
   ]
 }
